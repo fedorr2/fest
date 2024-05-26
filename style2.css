@@ -1,0 +1,68 @@
+* {
+    margin: 20px;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    /* display: flex; */
+}
+
+.ckeckpoint{
+    display: flex;
+    align-items: center;
+    margin: 0 9px;
+}
+
+
+.redh {
+    position: absolute;
+    top: 3%;
+    right:9%;
+} .greenh {
+    position: absolute;
+    top: 3%;
+    right:15%;  
+}
+
+.info {
+    width: 60%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;    
+}
+
+img {
+    /* position: absolute;
+    right: 25px;
+    top: 105px; */
+    width: 86%;
+}
+
+.img2 {
+    /* position: absolute;
+    right: 25px;
+    top: 105px; */
+    width: 55%;
+}
+
+.otv {
+   
+    /* right: 25px;
+    top: 70%; */
+    background-color: azure;
+    
+    /* width: 37%; */
+    /* height: 300%; */
+    /* float: right; */
+}
+.tasklist{
+    position: fixed;
+    width: 30vw;
+    height: 100vh;
+    top: 0;
+    right: 0;
+}

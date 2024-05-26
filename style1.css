@@ -1,0 +1,165 @@
+* {
+    margin: 7px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    position:absolute;
+    right: 10%;
+    top: 85px;
+    width: 78%;
+    height: 650%;
+    background-color: aliceblue;
+}
+
+h1 {
+    position: absolute;
+    left: 6%;
+    top: 35px;
+}
+
+.direction {
+    position: absolute;
+    left: 25%;
+}
+
+.popular {
+    position: absolute;
+    top: 105px;
+    left:3%;
+    width: 30%;
+    height: 35%;
+    display: flex;
+}
+
+.dish {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+}
+
+.dish2 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 450px;
+}
+
+.dish3 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 900px;
+}
+
+.dish4 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 1350px;
+}
+
+.dish5 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;  
+    left: 50px;
+    top: 1800px;
+}
+
+.dish6 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 2250px;
+}
+
+.dish7 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 2700px;
+}
+
+.dish8 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 3150px;
+}
+
+.dish9 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 3600px;
+}
+
+.dish10 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 4050px;
+}
+
+.name {
+    position: absolute;
+    left: 8%;
+    font-size: 30px;
+}
+
+.info {
+    position: absolute;
+    top: 13%;
+    left: 5%;
+    right: 38%;
+    font-size: 25px;
+}
+
+img {
+    position: absolute;
+    right: 8px;
+    width: 335px;
+    top: 20px;
+    height: 90%;
+} 
+
+.col1 {
+    position: absolute;
+    top: 1800px;
+}
+
+.col2 {
+    position: absolute;
+    top: 2250px;
+}
+
+.col3 {
+    position: absolute;
+    top: 3600px;
+}
+
+.col4 {
+    position: absolute;
+    top: 4050px;
+}
